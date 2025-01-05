@@ -1,9 +1,9 @@
 <h2>İşletme Arama / Search Business</h3>
 
-Aranacak Kategori / Search Category: Aranmak istenen işletme türü // the type of business you want to search for
-Aranacak Mahalle / Search Street: İşletme aranacak cadde (isteğe bağlı) / street to search for business (optional)
-Aranacak İl / Province to Search: İşletme aranacak il / Province to search for a business
-Aranacak İlçe / District to Search: İşletme aranacak ilçe / District to search for a Business
+Aranacak Kategori / Search Category: Aranmak istenen işletme türü // the type of business you want to search for <br>
+Aranacak Mahalle / Search Street: İşletme aranacak cadde (isteğe bağlı) / street to search for business (optional)  <br>
+Aranacak İl / Province to Search: İşletme aranacak il / Province to search for a business  <br>
+Aranacak İlçe / District to Search: İşletme aranacak ilçe / District to search for a Business  <br>
 
 ![image](https://github.com/user-attachments/assets/6a7dc887-d5c0-44b5-8889-047936dfe19c)
 ![image](https://github.com/user-attachments/assets/735c95fa-c82e-4f64-ac40-ad7403352c8a)
